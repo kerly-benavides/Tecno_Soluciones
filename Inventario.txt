@@ -1,0 +1,17 @@
+SISTEMA DE INVENTARIO
+
+Producto: Teclado
+Precio: 45000
+Cantidad: 10
+
+Producto: Mouse
+Precio: 30000
+Cantidad: 15
+
+Producto: Camara
+Precio: 20000
+Cantidad: 5
+
+Producto: Memoria USB
+Precio: 10000
+Cantidad: 25
