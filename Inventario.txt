@@ -19,3 +19,7 @@ Cantidad: 25
 Producto: Monitor 
 Precio: 550000
 Cantidad: 5
+
+Producto: impresora 
+Precio: 350000
+Cantidad: 3
