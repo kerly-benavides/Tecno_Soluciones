@@ -2,7 +2,7 @@ SISTEMA DE INVENTARIO
 
 Producto: Teclado
 Precio: 45000
-Cantidad: 10
+Cantidad: 20
 
 Producto: Mouse
 Precio: 30000
